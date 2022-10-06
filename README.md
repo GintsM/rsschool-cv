@@ -1,6 +1,3 @@
-# rsschool-cv
-[https://gintsm.github.io/rsschool-cv/cv](https://gintsm.github.io/rsschool-cv/cv)
-
 # Gints Misins
 
 Junior Frontend Developer
