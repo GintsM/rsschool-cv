@@ -20,7 +20,7 @@ JavaScript,
 React,
 Git, GitHub
 
-Met with Python, C++
+Met Python, JAVA and C++ on a way.
 
 
 Code example:
@@ -30,6 +30,15 @@ Courses, Education :
 Several Years as building engineer in LLU(Latvian Agricultura University)
 Online Cisco network courses
 
+<p>
+<img src="./assets/networking-essentials.png" alt="[network-essential badge]">
+
+[verify in Credly](https://www.credly.com/badges/af3bffb7-3374-4751-b02b-69264360918f/public_url)
+
+<img src="./assets/cybersecurity-essentials.png" alt="[cybersecurity-essentials badge]">
+
+[verify in Credly](https:https://www.credly.com/badges/83868cda-3241-4c17-8e83-a410ba0ed86c/public_url)
+</p>
 Languages:
 Latvian - Native
 English - Good
