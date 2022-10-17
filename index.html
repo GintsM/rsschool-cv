@@ -20,6 +20,9 @@
 
         <p>Junior Frontend Developer</p>
         <p>Contact information:</p>
+        <div class="photo">
+          <img src="./assets/img/cv_photo.jpg" alt="cv-author">
+        </div>
         <ul>
           <li>e-mail: gintsmis@gmail.com</li>
           <li><a href="https://www.linkedin.com/in/gints-misins-756b2321a/">LinkedIn</a></li>
@@ -51,7 +54,16 @@
     </article>
     <article class="codeEx">
       <h2 id="code-example">Code example:</h2>
-      <p>Probably this whould be great
+      <p>This whould be enough</p>
+      <code>
+          function countItems() {<br>
+            &emsp;const itemCount = document.querySelector('#item-count');<br>
+            &emsp;const section = document.querySelector('#addToScreen');<br>
+            &emsp;itemCount.firstChild.innerHTML = `APOD ${countElements(section)}`;<br>
+          }
+      </code>
+      <p>
+        Link to Project example
         <a href="https://github.com/GintsM/JS_Canvas_Playground/blob/main/src/canvas.js">GintsM Sudoku app</a>.
       </p>
       <p>It is not complete yet. Continue to work on it</p>
